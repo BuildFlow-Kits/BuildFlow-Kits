@@ -1,16 +1,23 @@
-## Hi there 👋
+# BuildFlow Kits
 
-<!--
-**BuildFlow-Kits/BuildFlow-Kits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI workflow kits, prompt systems, templates, and digital tools for developers, freelancers, and creators.
 
-Here are some ideas to get you started:
+We help solo builders work faster with repeatable systems for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* planning features
+* writing better AI prompts
+* debugging code
+* creating tests
+* managing freelance work
+* shipping digital products
+
+## Current free resource
+
+[AI Feature Shipping Prompts](https://github.com/buildflowkits/ai-feature-shipping-prompts)
+
+## Full product
+
+AI Coding Prompt Pack for Developers:
+https://samuelhany.gumroad.com/l/ship-features-faster-prompts
+
+## Build faster. Work cleaner. Stop starting from scratch.
